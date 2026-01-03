@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://task-master-sarfaraz.vercel.app/sitemap.xml
